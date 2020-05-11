@@ -1,0 +1,23 @@
+{
+  "name": "nz2001xiaomi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your2751585822/nz2001xiaomi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/your2751585822/nz2001xiaomi/issues"
+  },
+  "homepage": "https://github.com/your2751585822/nz2001xiaomi#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0"
+  }
+}
